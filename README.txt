@@ -1,0 +1,1 @@
+This is a demo repository for my mom’s website. We’ll use this to practice using GitHub!
